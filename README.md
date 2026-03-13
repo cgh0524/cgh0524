@@ -12,7 +12,7 @@
   
 ### Side Project
 #### [Scriptly](https://github.com/cgh96/project-scriptly-front)
-> 마크다운 기반 메모앱 | 개인 프로젝트 (진행중)
+> 마크다운 기반 메모앱 | 개인 프로젝트
 - Feature Sliced Design 아키텍처 적용으로 기능별 독립성과 코드 유지보수성 확보
 - Repository 패턴으로 IndexedDB 데이터 레이어 추상화하여 향후 REST API 마이그레이션 대비
 - Skill: TypeScript, React, Jotai, Styled-Components, Vite, IndexedDB
