@@ -1,4 +1,4 @@
-## Introduction
+# CHOI GYU HO
 
 React와 Vue3를 사용하는 프론트엔드 개발자입니다.
 
@@ -10,32 +10,43 @@ React와 Vue3를 사용하는 프론트엔드 개발자입니다.
 ## Tech Stack
 
 ### Frontend
-React · Next.js · Vue3 · TypeScript
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ### State / Data
-React Query · Pinia
+![Tanstack Query](https://img.shields.io/badge/-Tanstack%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![Pinia](https://img.shields.io/badge/Pinia-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
 ### Styling
-SCSS · Styled-Components
+![SCSS](https://img.shields.io/badge/SCSS-CC6699.svg?style=for-the-badge&logo=sass&logoColor=white)
+![Styled Components](https://img.shields.io/badge/styled--components-db7093.svg?style=for-the-badge&logo=styledcomponents&logoColor=white)
 
 ### Tools
-Vite · Jest · React Testing Library
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Jest](https://img.shields.io/badge/jest-C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
+![React Testing Library](https://img.shields.io/badge/testing--library-E33332.svg?style=for-the-badge&logo=testinglibrary&logoColor=white)
 
 <br />
 
 ## Featured Projects
 
-### [Stock Dashboard](https://github.com/cgh0524/project-front-stock-dashboard)
-여러 금융 데이터 API를 통합하여 시장 지표와 종목 데이터를 시각화하는 주식 대시보드 프로젝트
+### 📊 [Stock Dashboard](https://github.com/cgh0524/project-front-stock-dashboard)
 
-- Next.js 기반 BFF 구조를 설계하여 클라이언트와 외부 API 사이의 데이터 흐름 관리
-- API Provider Adapter 패턴을 적용해 데이터 공급자 변경에 대응 가능한 구조 설계
-- Zod 기반 데이터 검증과 Service 레이어 정규화로 API 응답 포맷 일관성 확보
-- TanStack Query 기반 캐싱 전략으로 API 호출 최소화 및 데이터 관리 단순화
+여러 금융 데이터 API를 통합해 시장 지표와 종목 데이터를 시각화하는 주식 대시보드 프로젝트
 
-Tech: Next.js, React, TypeScript, TanStack Query, Zod
+- Next.js 기반 BFF 구조 설계
+- API Provider Adapter 패턴으로 데이터 공급자 교체 가능하도록 설계
+- Zod 기반 데이터 검증 및 Service 레이어 정규화
+- TanStack Query 기반 캐싱 전략 적용
 
-### [차곡](https://github.com/Chagok-Integrated-for-DevProject/Chagok-Frontend)
+**Tech**  
+Next.js 15 (App Router), React Query, TypeScript, Zod
+
+
+### 🌱 [차곡](https://github.com/Chagok-Integrated-for-DevProject/Chagok-Frontend)
+
 해커톤 팀빌딩을 위한 개발자 커뮤니티 서비스
 
 - Next.js SSR 기반 페이지 구성으로 초기 렌더링 성능 개선
@@ -43,4 +54,6 @@ Tech: Next.js, React, TypeScript, TanStack Query, Zod
 - Axios Interceptor 기반 Access Token 자동 갱신 로직 구현
 - React Testing Library + Jest 기반 테스트 작성
 
-Tech: TypeScript, Next.js, React Query, Jest, React Testing Library
+**Tech**  
+Next.js 13 (Page Router), React Query, TypeScript, Jest, React Testing Library
+
